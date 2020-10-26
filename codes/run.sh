@@ -1,0 +1,1 @@
+python train.py --data_name=foursquare --data_path=../data/
