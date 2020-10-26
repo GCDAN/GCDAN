@@ -15,13 +15,12 @@ All experiments are conducted on a server with the following configurations:
 
 ## Run the code
  
-python main.py --data_name=foursquare --data_path=../data/
+`python main.py --data_name=foursquare --data_path=../data/`
 
 ## Datasets
 
 WiFi-Trace: https://www.dropbox.com/s/pm0f9s974xgig3t/mobility_anonymize.zip?dl=0
 Gowalla:http://snap.stanford.edu/data/loc-gowalla.html  
 Foursquare:http://spatialkeyword.sce.ntu.edu.sg/eval-vldb17/
-
 
 
