@@ -1,6 +1,6 @@
-Predicting Human Mobility via Graph Convolutional Dual-attentive Networks
+# Predicting Human Mobility via Graph Convolutional Dual-attentive Networks
 
-Code implementation of the paper: Predicting Human Mobility via Graph Convolutional Dual-attentive Networks
+Code implementation of the paper: Predicting Human Mobility via Graph Convolutional Dual-attentive Networks, which has been submitted to WWW 2020 for blind review.
 
 ## Requirements
 * `python 3.8.2`
