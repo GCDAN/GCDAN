@@ -2,6 +2,8 @@
 
 Code implementation of the paper: Predicting Human Mobility via Graph Convolutional Dual-attentive Networks, which has been submitted to WWW 2020 for blind review.
 
+**We publish a collected dataset (i.e., WiFi-Trace) as a new benchmark. It is available at https://www.dropbox.com/s/pm0f9s974xgig3t/mobility_anonymize.zip?dl=0**
+
 ## Requirements
 * `python 3.8.2`
 * `numpy 1.18.1`
