@@ -2,7 +2,7 @@
 
 Code implementation of the paper: Predicting Human Mobility via Graph Convolutional Dual-attentive Networks, which has been submitted to WSDM 2021 for blind review.
 
-**We publish a collected dataset (i.e., WiFi-Trace) as a new benchmark. It is available at /data/
+**We publish a collected dataset (i.e., WiFi-Trace) as a new benchmark. It is available at /data/**
 
 ## Requirements
 * `python 3.8.2`
