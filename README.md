@@ -1,6 +1,6 @@
 # Predicting Human Mobility via Graph Convolutional Dual-attentive Networks
 
-Code implementation of the paper: Predicting Human Mobility via Graph Convolutional Dual-attentive Networks, which has been submitted to WSDM 2021 for blind review.
+Code implementation of the paper: Predicting Human Mobility via Graph Convolutional Dual-attentive Networks, which has been submitted to WSDM 2022 for blind review.
 
 **We publish a collected dataset (i.e., WiFi-Trace) as a new benchmark. It is available at /data/**
 
